@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSTorrent", "CSTorrent\CSTorrent.csproj", "{9BBC7FDC-07D4-4EE9-8FF6-7BFF8B7478AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSTorrentTest", "CSTorrentTest\CSTorrentTest.csproj", "{F6C166C6-E040-4196-8411-9EA1075219A9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F3EF9105-BCD4-471A-9697-8CDD75F0435B}"
+	ProjectSection(SolutionItems) = preProject
+		CSTorrent.vsmdi = CSTorrent.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = CSTorrent.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BBC7FDC-07D4-4EE9-8FF6-7BFF8B7478AB}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{9BBC7FDC-07D4-4EE9-8FF6-7BFF8B7478AB}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{9BBC7FDC-07D4-4EE9-8FF6-7BFF8B7478AB}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{9BBC7FDC-07D4-4EE9-8FF6-7BFF8B7478AB}.Debug|x86.ActiveCfg = Debug|x86
+		{9BBC7FDC-07D4-4EE9-8FF6-7BFF8B7478AB}.Debug|x86.Build.0 = Debug|x86
+		{9BBC7FDC-07D4-4EE9-8FF6-7BFF8B7478AB}.Release|Any CPU.ActiveCfg = Release|x86
+		{9BBC7FDC-07D4-4EE9-8FF6-7BFF8B7478AB}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{9BBC7FDC-07D4-4EE9-8FF6-7BFF8B7478AB}.Release|Mixed Platforms.Build.0 = Release|x86
+		{9BBC7FDC-07D4-4EE9-8FF6-7BFF8B7478AB}.Release|x86.ActiveCfg = Release|x86
+		{9BBC7FDC-07D4-4EE9-8FF6-7BFF8B7478AB}.Release|x86.Build.0 = Release|x86
+		{F6C166C6-E040-4196-8411-9EA1075219A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6C166C6-E040-4196-8411-9EA1075219A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6C166C6-E040-4196-8411-9EA1075219A9}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{F6C166C6-E040-4196-8411-9EA1075219A9}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{F6C166C6-E040-4196-8411-9EA1075219A9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F6C166C6-E040-4196-8411-9EA1075219A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6C166C6-E040-4196-8411-9EA1075219A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6C166C6-E040-4196-8411-9EA1075219A9}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{F6C166C6-E040-4196-8411-9EA1075219A9}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{F6C166C6-E040-4196-8411-9EA1075219A9}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
